@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Venv
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (harici kullanilacak)
+data/
+
+# Büyük model/özellik çiktilari burada (LFS ile takip edilecek)
+# artifacts/ klasörünü ignore etme
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

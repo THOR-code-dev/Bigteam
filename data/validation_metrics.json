@@ -1,7 +1,0 @@
-{
-  "validation_auc": 0.7749996095763519,
-  "validation_recall@20": 0.3205887124746383,
-  "per_user_auc_click": 0.5028143169531922,
-  "per_user_auc_order": 0.5126198457410973,
-  "competition_score_estimate": 0.5096781871047258
-}
